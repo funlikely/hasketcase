@@ -5,3 +5,7 @@ Seriously, reddit and stackoverflow are full of people talking about how difficu
 it sometimes seems to be,
 
 for some people.
+
+This is just an attempt to get it running on Windows, and be able to write some code and debug with breakpoints.
+
+Eventually this may turn into a serious language learning endeavor.
